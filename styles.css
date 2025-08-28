@@ -223,4 +223,7 @@ h2 {
     flex-direction: column;
     align-items: center;
   }
+   .social-links {
+    margin-bottom: 30px;
+  }
 }
